@@ -11,4 +11,5 @@ How to reach me: `Base64.decode("ZGV4QGxpYmFydC5zbw==")`
 
 ### Overall Status
 
-[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=cinit&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=cinit&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+![cinit](https://count.getloli.com/get/@cinit)
